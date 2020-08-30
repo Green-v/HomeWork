@@ -1,0 +1,32 @@
+body{
+    background-image: url(/Project/ImgProject/paper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+}
+header{
+    text-align: center;
+}
+img{
+    height: 300px;
+}
+
+.titel{
+    font-weight: 700;
+    border-left: 10px solid #2e67a9;
+    padding-left: 15px;
+    color: #000;
+    text-transform: uppercase;
+    
+}
+p,h1{
+    
+    font-family: 'Sriracha', cursive;
+    font-size: 30px;
+    color: #000000;
+}
+p{
+    margin-bottom: 3em;
+    padding-left: 2em;
+}
